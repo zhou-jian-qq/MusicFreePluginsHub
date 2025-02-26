@@ -26,11 +26,6 @@
       "version": "0.0.0"
     },
     {
-      "name": "suno",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/suno\/index.js",
-      "version": "0.0.0"
-    },
-    {
       "name": "歌词千寻",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/geciqianxun\/index.js",
       "version": "0.0.0"
@@ -44,21 +39,6 @@
       "name": "WebDAV",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/webdav\/index.js",
       "version": "0.0.2"
-    },
-    {
-      "name": "udio",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/udio\/index.js",
-      "version": "0.0.0"
-    },
-    {
-      "name": "音悦台",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/yinyuetai\/index.js",
-      "version": "0.0.1"
-    },
-    {
-      "name": "Youtube",
-      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/youtube\/index.js",
-      "version": "0.0.1"
     },
     {
       "name": "网易云电台",
