@@ -11,6 +11,11 @@
       "version": "0.0.0"
     },
     {
+      "name": "bilibili",
+      "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/bilibili\/index.js",
+      "version": "0.2.2"
+    },
+    {
       "name": "快手",
       "url": "https:\/\/gitee.com\/maotoumao\/MusicFreePlugins\/raw\/v0.1\/dist\/kuaishou\/index.js",
       "version": "0.0.2"
